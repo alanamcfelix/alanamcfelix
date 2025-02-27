@@ -1,9 +1,13 @@
 # 👋 Hi, I’m @alanamcfelix
 
 👀 I’m interested in data analysis, cloud computing, and the intersection between technology and social sciences.
+
 🌱 I’m currently studying Data Science (postgraduate at UNINASSAU) and expanding my skills in Cloud Computing (AWS) and Software Development.
+
 💞️ I’m looking to collaborate on projects that use data to drive decision-making, business intelligence, and social impact.
+
 📫 How to reach me: You can contact me via email at alanamcfelix@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alana-felix/)
+
 😄 Pronouns: She/Her
 
 ## About Me
